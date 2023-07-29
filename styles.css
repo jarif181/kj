@@ -1,0 +1,261 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+}
+
+.nav>ul {
+    display: flex;
+    align-items: center;
+
+}
+
+.nav ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #272727;
+    font-size: large;
+
+}
+.ads {
+    text-align: center;
+    align-items: center;
+}
+
+.header {
+    background-color: rgba(229, 84, 115, 0.1);
+    display: flex;
+    align-items: center;
+    padding-left: 240px;
+    gap: 200px;
+    justify-content: space-between;
+
+}
+
+.h2 {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+
+}
+
+.h3 {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+}
+
+.btn {
+    border: 0;
+    border-radius: 7px;
+    background-color: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.img-part {
+    padding-top: 50px;
+    padding-right: 240px;
+}
+
+.exta-mark-part {
+    text-align: center;
+    padding-top: 178px;
+
+}
+
+.Featured {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+
+.Featured2 {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 663px;
+
+}
+
+.exta-mark-part2 {
+    display: flex;
+    align-items: center;
+    margin: 48px 260px;
+    gap: 24px;
+}
+
+.underline {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-top: 32px;
+    text-align: center;
+}
+
+.imgh {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+
+.ac {
+
+    padding: 117px 47px 51px 47px;
+
+}
+
+.ab {
+    padding: 110px 78px 0px 76px;
+}
+
+.ad {
+    padding: 67px 75px 0px 75px;
+}
+
+.hotdeal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 186px;
+    background-color: rgba(229, 84, 115, 0.05);
+
+}
+
+.hotdeal-part1 {
+    text-align: center;
+    width: 50%;
+    padding-left: 423px;
+
+}
+
+.sales {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+
+.coloring {
+    color: rgba(229, 84, 115, 1);
+}
+
+.Featured3 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+}
+
+.hotdeal-part2 {
+    padding: 100px 429px 100px 0px;
+}
+
+.bg-img {
+    background-image: url('./assest/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: 128px 240px;
+
+}
+
+.vitore {
+    text-align: center;
+    padding-top: 122px;
+    padding-left: 528px;
+    padding-right: 528px;
+}
+
+.inpit {
+    text-align: center;
+    padding: 48px 287px 121px 287px;
+
+}
+
+.input2 {
+    padding: 25px 513px 25px 25px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 20px;
+
+}
+
+.extra-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.90);
+    margin: 30px 70px;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.new1,
+.new2 {
+    padding-right: 240px;
+}
+
+.Featured4 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+
+
+
+.foot {
+    align-items: center;
+    text-align: center;
+    background-color: #111010;
+    padding: 128px 649px;
+}
+
+.foot1 {
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.foot2 {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+    margin-top: 24px;
+}
+
+.normal {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+
+}
